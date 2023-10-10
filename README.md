@@ -5,4 +5,6 @@ It fetches live data from a Coingecko API and displays it in a clean and user-fr
 including an interactive chart to visualize market trends.
 
 ![Simulator Screenshot - iPhone 15 Pro - 2023-10-09 at 17 17 48](https://path-to-your-image/image1.jpg | width=100)
+
+
 ![Simulator Screenshot - iPhone 15 Pro - 2023-10-09 at 17 17 58](https://path-to-your-image/image2.jpg | width=100)
